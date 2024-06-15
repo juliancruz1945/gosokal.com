@@ -1,2 +1,0 @@
-# gosokal.com
-gosokal.com
